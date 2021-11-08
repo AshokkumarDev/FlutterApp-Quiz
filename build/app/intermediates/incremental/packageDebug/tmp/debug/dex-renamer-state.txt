@@ -1,0 +1,4 @@
+#Mon Nov 08 15:14:17 IST 2021
+base.0=/Users/Ashok/Data/personal/Learning/Flutter/playground/flutter_complete_guide/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
